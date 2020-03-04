@@ -9,7 +9,9 @@
 - git config: set or get configuration stored in system, local, global, worktree, or file
 - git log: show history (aka "log") of project commits in descending order
 - git checkout: Check out branch (update HEAD and apply changes) to working directory
+- git branch -c: Create a branch
 - git merge: Merge changes from different branches
+
 
 ## Commit Messages
 
