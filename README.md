@@ -1,4 +1,4 @@
-# Git Practice Repository
+# Git Commands/Cheatsheet
 
 ## Commands
 
@@ -18,6 +18,7 @@
 - git remote add <remote> <url>: Add a new <remote> at <url>
 - git remote -v: List remote repositories
 - git push -u <remote> <branch>: Push <branch> to <remote>, and set default upstream for <branch>
+- git fetch: Fetch changes from remote repo
 
 ## What's a branch?
 
